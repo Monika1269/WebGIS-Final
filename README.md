@@ -1,13 +1,12 @@
 # WebGIS-Final
 Web GIS Lab 6 — Leaflet Map Deployment
 
-My Web GIS Map
 
   
 
 ## Description 
 
-This web map shows [describe what geographic features or data your map displays]. 
+This web map shows three cities of united stated namely Chicago, Houston and Los Angeles. 
 
 It was built using Leaflet.js as part of GIS 5220/420 Lab 6. 
 
@@ -25,9 +24,9 @@ OpenStreetMap, USGS, your own collected data].
 
 - Interactive basemap with zoom and pan 
 
-- [Describe your data layer, e.g., GeoJSON point markers for US cities] 
+- It has three cities as points 
 
-- [Describe interactivity, e.g., Clickable popups showing city name and population] 
+- For the interactivity, if you click on the markers you will get popups showing city, states , population and notes
 
 - Scale bar showing metric and imperial units 
 
